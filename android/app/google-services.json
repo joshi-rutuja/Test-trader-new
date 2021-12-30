@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "437253402608",
+    "project_id": "stocktrader1-2db78",
+    "storage_bucket": "stocktrader1-2db78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437253402608:android:76990ef5b9170badebb735",
+        "android_client_info": {
+          "package_name": "com.flutterflow.stocktrade12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437253402608-uar02uddft4hi38p50esq6gs1kcpfgiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.stocktrade12",
+            "certificate_hash": "19bbbdec357c4bf8e170758ceb2edecbe9d9ec22"
+          }
+        },
+        {
+          "client_id": "437253402608-ilgd3a2opiaeki4ra6ebhlauddoe14as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKMhtuZ66lB1kJp0DstBHZqHXmpVGcQ4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437253402608-ilgd3a2opiaeki4ra6ebhlauddoe14as.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "437253402608-64p9th7b889kee4mjlj0on3uo05aq31k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.stocktrade1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
